@@ -26,7 +26,7 @@
    "https://raw.githubusercontent.com/filosofiya-deneg/filosofiya-reels/main/ks/carousels/c1_etapy/06.jpg",
    "https://raw.githubusercontent.com/filosofiya-deneg/filosofiya-reels/main/ks/carousels/c1_etapy/07.jpg"
   ],
-  "caption": "Как строится дом под ключ: 7 этапов 🏡\n\nЛистайте и сохраняйте — пригодится, когда начнёте строить.\n\n📩 Напишите в директ «СМЕТА» — бесплатно посчитаем стоимость вашего дома.\n📍 Краснодар и Горячий Ключ\n\nЧасть изображений создана с помощью ИИ\n\n#строительстводомов #домизгазоблока #домподключ #краснодар #горячийключ #строительствокраснодар #комплексстрой",
+  "caption": "Как строится дом под ключ: 7 этапов 🏡\n\nЛистайте и сохраняйте — пригодится, когда начнёте строить.\n\n📩 Напишите в директ «СМЕТА» — бесплатно посчитаем стоимость вашего дома.\n📍 Краснодар и Горячий Ключ\n\n#строительстводомов #домизгазоблока #домподключ #краснодар #горячийключ #строительствокраснодар #комплексстрой",
   "status": "published",
   "media_id": "18118955164821131",
   "permalink": "https://www.instagram.com/p/DfrlnESIMVw/",
@@ -38,8 +38,7 @@
   "type": "story",
   "title": "s1",
   "image_url": "https://raw.githubusercontent.com/filosofiya-deneg/filosofiya-reels/main/ks/stories/s1.jpg",
-  "status": "paused",
-  "note": "есть реальные фото владельца — ждёт решения"
+  "status": "ready"
  },
  {
   "n": 4,
@@ -63,9 +62,8 @@
    "https://raw.githubusercontent.com/filosofiya-deneg/filosofiya-reels/main/ks/carousels/c2_fundament/06.jpg",
    "https://raw.githubusercontent.com/filosofiya-deneg/filosofiya-reels/main/ks/carousels/c2_fundament/07.jpg"
   ],
-  "caption": "5 правил фундамента, который не треснет 🧱\n\nВсё на фото — с нашего объекта. Сохраните 📌\n\n📩 Напишите в директ «СМЕТА» — бесплатно посчитаем стоимость вашего дома.\n📍 Краснодар и Горячий Ключ\n\n#фундамент #строительстводомов #домизгазоблока #домподключ #краснодар #горячийключ #строительствокраснодар #комплексстрой",
-  "status": "paused",
-  "note": "есть реальные фото владельца — ждёт решения"
+  "caption": "5 правил фундамента, который не треснет 🧱\n\nСохраните, чтобы не забыть 📌\n\n📩 Напишите в директ «СМЕТА» — бесплатно посчитаем стоимость вашего дома.\n📍 Краснодар и Горячий Ключ\n\n#фундамент #строительстводомов #домизгазоблока #домподключ #краснодар #горячийключ #строительствокраснодар #комплексстрой",
+  "status": "ready"
  },
  {
   "n": 6,
@@ -81,13 +79,33 @@
   "cover_url": "https://raw.githubusercontent.com/filosofiya-deneg/filosofiya-reels/main/ks/covers/r2_fundament.jpg"
  },
  {
+  "n": 9,
+  "when": "2026-11-14 20:00",
+  "type": "reel",
+  "title": "g1_bylo_pole_stal_dom",
+  "video_url": "https://raw.githubusercontent.com/filosofiya-deneg/filosofiya-reels/main/ks/reels/g1_bylo_pole_stal_dom.mp4",
+  "caption": "Было поле — стал дом 🏡\n\nВот так выглядит путь от пустого участка до готового дома: фундамент, стены из газоблока, кровля, фасад.\n\nА с какого этапа начали бы вы? Пишите в комментариях 👇\n\n📩 Напишите в директ «СМЕТА» — бесплатно посчитаем стоимость вашего дома.\n📍 Краснодар и Горячий Ключ\n\n🎬 Видео создано с помощью ИИ\n\n#строительстводомов #домизгазоблока #домподключ #краснодар #горячийключ #строительствокраснодар #комплексстрой",
+  "status": "cancelled",
+  "cover_url": "https://raw.githubusercontent.com/filosofiya-deneg/filosofiya-reels/main/ks/covers/g1_bylo_pole_stal_dom.jpg",
+  "note": "владелец отменил, переходим на мультяшный стиль"
+ },
+ {
+  "n": 20,
+  "when": "2026-11-14 20:00",
+  "type": "reel",
+  "title": "k1_kak_stroitsya_dom",
+  "video_url": "https://raw.githubusercontent.com/filosofiya-deneg/filosofiya-reels/main/ks/reels/k1_kak_stroitsya_dom.mp4",
+  "cover_url": "https://raw.githubusercontent.com/filosofiya-deneg/filosofiya-reels/main/ks/covers/k1_kak_stroitsya_dom.jpg",
+  "caption": "Как строится дом? Показали за 15 секунд 🏡\n\nУчасток → фундамент → стены из газоблока → кровля → окна и двери → ваш дом под ключ.\n\nА на каком этапе вы сейчас? Пишите в комментариях 👇\n\n📩 Напишите в директ «СМЕТА» — бесплатно посчитаем стоимость вашего дома.\n📍 Краснодар и Горячий Ключ\n\n#строительстводомов #домизгазоблока #домподключ #краснодар #горячийключ #строительствокраснодар #комплексстрой",
+  "status": "ready"
+ },
+ {
   "n": 7,
   "when": "2026-11-15 10:00",
   "type": "story",
   "title": "s2",
   "image_url": "https://raw.githubusercontent.com/filosofiya-deneg/filosofiya-reels/main/ks/stories/s2.jpg",
-  "status": "paused",
-  "note": "есть реальные фото владельца — ждёт решения"
+  "status": "ready"
  },
  {
   "n": 8,
@@ -103,20 +121,40 @@
    "https://raw.githubusercontent.com/filosofiya-deneg/filosofiya-reels/main/ks/carousels/c3_smeta/06.jpg",
    "https://raw.githubusercontent.com/filosofiya-deneg/filosofiya-reels/main/ks/carousels/c3_smeta/07.jpg"
   ],
-  "caption": "Из чего складывается смета на дом 📋\n\nРазобрали по статьям, чтобы вы понимали, за что платите.\n\n📩 Напишите в директ «СМЕТА» — бесплатно посчитаем стоимость вашего дома.\n📍 Краснодар и Горячий Ключ\n\nЧасть изображений создана с помощью ИИ\n\n#строительстводомов #домизгазоблока #домподключ #краснодар #горячийключ #строительствокраснодар #комплексстрой",
-  "status": "paused",
-  "note": "есть реальные фото владельца — ждёт решения"
+  "caption": "Из чего складывается смета на дом 📋\n\nРазобрали по статьям, чтобы вы понимали, за что платите.\n\n📩 Напишите в директ «СМЕТА» — бесплатно посчитаем стоимость вашего дома.\n📍 Краснодар и Горячий Ключ\n\n#строительстводомов #домизгазоблока #домподключ #краснодар #горячийключ #строительствокраснодар #комплексстрой",
+  "status": "ready"
  },
  {
-  "n": 9,
-  "when": "2026-11-14 20:00",
+  "n": 12,
+  "when": "2026-11-15 20:00",
   "type": "reel",
-  "title": "g1_bylo_pole_stal_dom",
-  "video_url": "https://raw.githubusercontent.com/filosofiya-deneg/filosofiya-reels/main/ks/reels/g1_bylo_pole_stal_dom.mp4",
-  "caption": "Было поле — стал дом 🏡\n\nВот так выглядит путь от пустого участка до готового дома: фундамент, стены из газоблока, кровля, фасад.\n\nА с какого этапа начали бы вы? Пишите в комментариях 👇\n\n📩 Напишите в директ «СМЕТА» — бесплатно посчитаем стоимость вашего дома.\n📍 Краснодар и Горячий Ключ\n\n🎬 Видео создано с помощью ИИ\n\n#строительстводомов #домизгазоблока #домподключ #краснодар #горячийключ #строительствокраснодар #комплексстрой",
+  "title": "r1_ot_polya_do_sten",
+  "video_url": "https://raw.githubusercontent.com/filosofiya-deneg/filosofiya-reels/main/ks/reels/r1_ot_polya_do_sten.mp4",
+  "caption": "От пустого участка до коробки дома — показали все этапы 🏗\n\nОснование, утепление плиты, армирование, заливка, гидроизоляция, первый ряд газоблока и стены. Это наш реальный объект.\n\n📩 Напишите в директ «СМЕТА» — бесплатно посчитаем стоимость вашего дома.\n📍 Краснодар и Горячий Ключ\n\n#строительстводомов #домизгазоблока #домподключ #краснодар #горячийключ #строительствокраснодар #комплексстрой",
   "status": "cancelled",
-  "cover_url": "https://raw.githubusercontent.com/filosofiya-deneg/filosofiya-reels/main/ks/covers/g1_bylo_pole_stal_dom.jpg",
+  "cover_url": "https://raw.githubusercontent.com/filosofiya-deneg/filosofiya-reels/main/ks/covers/r1_ot_polya_do_sten.jpg",
+  "note": "владелец: свои видео не публиковать, только генерация"
+ },
+ {
+  "n": 15,
+  "when": "2026-11-15 20:00",
+  "type": "reel",
+  "title": "g3_bez_skrytyh_platezhej",
+  "video_url": "https://raw.githubusercontent.com/filosofiya-deneg/filosofiya-reels/main/ks/reels/g3_bez_skrytyh_platezhej.mp4",
+  "caption": "Боитесь, что стройка выйдет дороже? 💸\n\nВот как мы это исключаем:\n✔️ смета до начала работ — без скрытых платежей\n✔️ договор и поэтапная оплата\n✔️ фотоотчёты с каждого этапа\n✔️ гарантия на работы\n\n📩 Напишите в директ «СМЕТА» — бесплатно посчитаем стоимость вашего дома.\n📍 Краснодар и Горячий Ключ\n\n🎬 Видео создано с помощью ИИ\n\n#строительстводомов #домизгазоблока #домподключ #краснодар #горячийключ #строительствокраснодар #комплексстрой",
+  "status": "cancelled",
+  "cover_url": "https://raw.githubusercontent.com/filosofiya-deneg/filosofiya-reels/main/ks/covers/g3_bez_skrytyh_platezhej.jpg",
   "note": "владелец отменил, переходим на мультяшный стиль"
+ },
+ {
+  "n": 21,
+  "when": "2026-11-15 20:00",
+  "type": "reel",
+  "title": "k3_bez_skrytyh",
+  "video_url": "https://raw.githubusercontent.com/filosofiya-deneg/filosofiya-reels/main/ks/reels/k3_bez_skrytyh.mp4",
+  "cover_url": "https://raw.githubusercontent.com/filosofiya-deneg/filosofiya-reels/main/ks/covers/k3_bez_skrytyh.jpg",
+  "caption": "Боитесь, что стройка выйдет дороже? 💸\n\nВот как мы это исключаем:\n✔️ смета до начала работ — без скрытых платежей\n✔️ договор и поэтапная оплата\n✔️ фотоотчёты с каждого этапа\n✔️ гарантия на работы\n\n📩 Напишите в директ «СМЕТА» — бесплатно посчитаем стоимость вашего дома.\n📍 Краснодар и Горячий Ключ\n\n#строительстводомов #домизгазоблока #домподключ #краснодар #горячийключ #строительствокраснодар #комплексстрой",
+  "status": "ready"
  },
  {
   "n": 10,
@@ -124,8 +162,7 @@
   "type": "story",
   "title": "s4",
   "image_url": "https://raw.githubusercontent.com/filosofiya-deneg/filosofiya-reels/main/ks/stories/s4.jpg",
-  "status": "paused",
-  "note": "есть реальные фото владельца — ждёт решения"
+  "status": "ready"
  },
  {
   "n": 11,
@@ -141,20 +178,18 @@
    "https://raw.githubusercontent.com/filosofiya-deneg/filosofiya-reels/main/ks/carousels/c4_gazoblok/06.jpg",
    "https://raw.githubusercontent.com/filosofiya-deneg/filosofiya-reels/main/ks/carousels/c4_gazoblok/07.jpg"
   ],
-  "caption": "Почему мы строим из газоблока 🧱\n\nТёплый, быстрый, ровный и негорючий. Листайте →\n\n📩 Напишите в директ «СМЕТА» — бесплатно посчитаем стоимость вашего дома.\n📍 Краснодар и Горячий Ключ\n\nЧасть изображений создана с помощью ИИ\n\n#строительстводомов #домизгазоблока #домподключ #краснодар #горячийключ #строительствокраснодар #комплексстрой",
-  "status": "paused",
-  "note": "есть реальные фото владельца — ждёт решения"
+  "caption": "Почему мы строим из газоблока 🧱\n\nТёплый, быстрый, ровный и негорючий. Листайте →\n\n📩 Напишите в директ «СМЕТА» — бесплатно посчитаем стоимость вашего дома.\n📍 Краснодар и Горячий Ключ\n\n#строительстводомов #домизгазоблока #домподключ #краснодар #горячийключ #строительствокраснодар #комплексстрой",
+  "status": "ready"
  },
  {
-  "n": 12,
-  "when": "2026-11-15 20:00",
+  "n": 22,
+  "when": "2026-11-16 20:00",
   "type": "reel",
-  "title": "r1_ot_polya_do_sten",
-  "video_url": "https://raw.githubusercontent.com/filosofiya-deneg/filosofiya-reels/main/ks/reels/r1_ot_polya_do_sten.mp4",
-  "caption": "От пустого участка до коробки дома — показали все этапы 🏗\n\nОснование, утепление плиты, армирование, заливка, гидроизоляция, первый ряд газоблока и стены. Это наш реальный объект.\n\n📩 Напишите в директ «СМЕТА» — бесплатно посчитаем стоимость вашего дома.\n📍 Краснодар и Горячий Ключ\n\n#строительстводомов #домизгазоблока #домподключ #краснодар #горячийключ #строительствокраснодар #комплексстрой",
-  "status": "cancelled",
-  "cover_url": "https://raw.githubusercontent.com/filosofiya-deneg/filosofiya-reels/main/ks/covers/r1_ot_polya_do_sten.jpg",
-  "note": "владелец: свои видео не публиковать, только генерация"
+  "title": "k2_odin_podryadchik",
+  "video_url": "https://raw.githubusercontent.com/filosofiya-deneg/filosofiya-reels/main/ks/reels/k2_odin_podryadchik.mp4",
+  "cover_url": "https://raw.githubusercontent.com/filosofiya-deneg/filosofiya-reels/main/ks/covers/k2_odin_podryadchik.jpg",
+  "caption": "Один подрядчик — весь дом 🏡\n\nЗемляные работы, фундамент, коробка, кровля, окна и благоустройство — одной командой. Не нужно искать разные бригады и разбираться, кто за что отвечает.\n\n📩 Напишите в директ «СМЕТА» — бесплатно посчитаем стоимость вашего дома.\n📍 Краснодар и Горячий Ключ\n\n#строительстводомов #домизгазоблока #домподключ #краснодар #горячийключ #строительствокраснодар #комплексстрой",
+  "status": "ready"
  },
  {
   "n": 13,
@@ -178,20 +213,19 @@
    "https://raw.githubusercontent.com/filosofiya-deneg/filosofiya-reels/main/ks/carousels/c5_oshibki/06.jpg",
    "https://raw.githubusercontent.com/filosofiya-deneg/filosofiya-reels/main/ks/carousels/c5_oshibki/07.jpg"
   ],
-  "caption": "5 ошибок при строительстве дома, которые потом стоят дороже всего ⚠️\n\nСохраните и отправьте тому, кто собирается строиться 👇\n\n📩 Напишите в директ «СМЕТА» — бесплатно посчитаем стоимость вашего дома.\n📍 Краснодар и Горячий Ключ\n\nЧасть изображений создана с помощью ИИ\n\n#строительстводомов #домизгазоблока #домподключ #краснодар #горячийключ #строительствокраснодар #комплексстрой",
-  "status": "paused",
-  "note": "есть реальные фото владельца — ждёт решения"
+  "caption": "5 ошибок при строительстве дома, которые потом стоят дороже всего ⚠️\n\nСохраните и отправьте тому, кто собирается строиться 👇\n\n📩 Напишите в директ «СМЕТА» — бесплатно посчитаем стоимость вашего дома.\n📍 Краснодар и Горячий Ключ\n\n#строительстводомов #домизгазоблока #домподключ #краснодар #горячийключ #строительствокраснодар #комплексстрой",
+  "status": "ready"
  },
  {
-  "n": 15,
-  "when": "2026-11-15 20:00",
+  "n": 18,
+  "when": "2026-11-17 20:00",
   "type": "reel",
-  "title": "g3_bez_skrytyh_platezhej",
-  "video_url": "https://raw.githubusercontent.com/filosofiya-deneg/filosofiya-reels/main/ks/reels/g3_bez_skrytyh_platezhej.mp4",
-  "caption": "Боитесь, что стройка выйдет дороже? 💸\n\nВот как мы это исключаем:\n✔️ смета до начала работ — без скрытых платежей\n✔️ договор и поэтапная оплата\n✔️ фотоотчёты с каждого этапа\n✔️ гарантия на работы\n\n📩 Напишите в директ «СМЕТА» — бесплатно посчитаем стоимость вашего дома.\n📍 Краснодар и Горячий Ключ\n\n🎬 Видео создано с помощью ИИ\n\n#строительстводомов #домизгазоблока #домподключ #краснодар #горячийключ #строительствокраснодар #комплексстрой",
+  "title": "r3_steny_gazoblok",
+  "video_url": "https://raw.githubusercontent.com/filosofiya-deneg/filosofiya-reels/main/ks/reels/r3_steny_gazoblok.mp4",
+  "caption": "Сколько стоит дом из газоблока в Краснодаре? 🤔\n\nЗависит от проекта, участка и комплектации — поэтому считаем индивидуально и бесплатно. А пока смотрите, как мы кладём стены: гидроизоляция цоколя, первый ряд по уровню, армирование кладки.\n\n📩 Напишите в директ «СМЕТА» — пришлём расчёт под ваш проект.\n📍 Краснодар и Горячий Ключ\n\n#строительстводомов #домизгазоблока #домподключ #краснодар #горячийключ #строительствокраснодар #комплексстрой",
   "status": "cancelled",
-  "cover_url": "https://raw.githubusercontent.com/filosofiya-deneg/filosofiya-reels/main/ks/covers/g3_bez_skrytyh_platezhej.jpg",
-  "note": "владелец отменил, переходим на мультяшный стиль"
+  "cover_url": "https://raw.githubusercontent.com/filosofiya-deneg/filosofiya-reels/main/ks/covers/r3_steny_gazoblok.jpg",
+  "note": "владелец: свои видео не публиковать, только генерация"
  },
  {
   "n": 16,
@@ -199,8 +233,7 @@
   "type": "story",
   "title": "s6",
   "image_url": "https://raw.githubusercontent.com/filosofiya-deneg/filosofiya-reels/main/ks/stories/s6.jpg",
-  "status": "paused",
-  "note": "есть реальные фото владельца — ждёт решения"
+  "status": "ready"
  },
  {
   "n": 17,
@@ -216,20 +249,8 @@
    "https://raw.githubusercontent.com/filosofiya-deneg/filosofiya-reels/main/ks/carousels/c6_kak_rabotaem/06.jpg",
    "https://raw.githubusercontent.com/filosofiya-deneg/filosofiya-reels/main/ks/carousels/c6_kak_rabotaem/07.jpg"
   ],
-  "caption": "Как мы работаем: от заявки до ключей 🔑\n\n5 простых шагов — и вы в своём доме.\n\n📩 Напишите в директ «СМЕТА» — бесплатно посчитаем стоимость вашего дома.\n📍 Краснодар и Горячий Ключ\n\nЧасть изображений создана с помощью ИИ\n\n#строительстводомов #домизгазоблока #домподключ #краснодар #горячийключ #строительствокраснодар #комплексстрой",
-  "status": "paused",
-  "note": "есть реальные фото владельца — ждёт решения"
- },
- {
-  "n": 18,
-  "when": "2026-11-17 20:00",
-  "type": "reel",
-  "title": "r3_steny_gazoblok",
-  "video_url": "https://raw.githubusercontent.com/filosofiya-deneg/filosofiya-reels/main/ks/reels/r3_steny_gazoblok.mp4",
-  "caption": "Сколько стоит дом из газоблока в Краснодаре? 🤔\n\nЗависит от проекта, участка и комплектации — поэтому считаем индивидуально и бесплатно. А пока смотрите, как мы кладём стены: гидроизоляция цоколя, первый ряд по уровню, армирование кладки.\n\n📩 Напишите в директ «СМЕТА» — пришлём расчёт под ваш проект.\n📍 Краснодар и Горячий Ключ\n\n#строительстводомов #домизгазоблока #домподключ #краснодар #горячийключ #строительствокраснодар #комплексстрой",
-  "status": "cancelled",
-  "cover_url": "https://raw.githubusercontent.com/filosofiya-deneg/filosofiya-reels/main/ks/covers/r3_steny_gazoblok.jpg",
-  "note": "владелец: свои видео не публиковать, только генерация"
+  "caption": "Как мы работаем: от заявки до ключей 🔑\n\n5 простых шагов — и вы в своём доме.\n\n📩 Напишите в директ «СМЕТА» — бесплатно посчитаем стоимость вашего дома.\n📍 Краснодар и Горячий Ключ\n\n#строительстводомов #домизгазоблока #домподключ #краснодар #горячийключ #строительствокраснодар #комплексстрой",
+  "status": "ready"
  },
  {
   "n": 19,

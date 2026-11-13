@@ -77,12 +77,13 @@ def story(spec, path):
     W, H = 1080, 1920
     im = cover(photo(spec['photo']), W, H, spec.get('oy', 0.5), spec.get('ox', 0.5))
     im = ImageEnhance.Contrast(im).enhance(1.06).convert('RGBA')
-    im.alpha_composite(grad(W, H, 700, 235, top=300))
+    top = spec.get('top', False)
+    im.alpha_composite(grad(W, H, 1250 if top else 700, 235, top=300))
     d = ImageDraw.Draw(im)
     brand(d, 60, 250, 38)
     L = [(spec['title'], F(FB, 96), WH, 26)]
-    if spec.get('body'): L.append((spec['body'], F(FS, 52), (235, 235, 235), 40))
-    text_block(d, L, 70, 1330, W - 140)
+    if spec.get('body'): L.append((spec['body'], F(FS, 52), (255, 255, 255), 40))
+    text_block(d, L, 70, 760 if top else 1330, W - 140)
     # CTA box
     f1 = F(FB, 58); f2 = F(FX, 44)
     cta = spec.get('cta', 'СМЕТА И ПРОСЧЁТ — БЕСПЛАТНО'); sub = spec.get('sub', 'Пишите в директ «СМЕТА»')
@@ -164,3 +165,26 @@ if __name__ == '__main__':
     os.makedirs(f'{OUT}/stories', exist_ok=True)
     for sid, s in STORIES.items(): story(s, f'{OUT}/stories/{sid}.jpg')
     print('ok')
+
+TOON = {
+ 'c2_fundament': ['t_rebar','t_dig','t_gravel','t_gravel','t_rebar','t_slab','t_dusk'],
+ 'c3_smeta': ['t_ic_smeta','t_dig','t_pour','t_walls2','t_roof','t_windows','t_ic_dogovor'],
+ 'c4_gazoblok': ['t_walls2','t_b_dusk','t_walls1','t_b_walls','t_walls2','t_done','t_dusk'],
+ 'c5_oshibki': ['t_plot','t_slab','t_pour','t_walls1','t_ic_smeta','t_b_walls','t_done'],
+ 'c6_kak_rabotaem': ['t_ic_dogovor','t_plot','t_ic_smeta','t_ic_dogovor','t_ic_photo','t_ic_shield','t_dusk'],
+}
+TSTORY = {'s1':'t_done','s2':'t_pour','s3':'t_b_done','s4':'t_b_walls','s5':'t_dusk','s6':'t_walls2','s7':'t_done'}
+
+def build_toon():
+    CAROUSELS['c2_fundament'][0]['body'] = 'Сохраните, пригодится →'
+    CAROUSELS['c2_fundament'][5]['title'] = '5. Выдержка 3–4 недели'
+    for cid, photos in TOON.items():
+        sl = CAROUSELS[cid]; os.makedirs(f'{OUT}/carousels/{cid}', exist_ok=True)
+        for i, (s, ph) in enumerate(zip(sl, photos), 1):
+            s = dict(s); s['photo'] = ph; s['oy'] = 0.75; s['ox'] = 0.5
+            slide(s, i, len(sl), f'{OUT}/carousels/{cid}/{i:02d}.jpg')
+    os.makedirs(f'{OUT}/stories', exist_ok=True)
+    for sid, ph in TSTORY.items():
+        s = dict(STORIES[sid]); s['photo'] = ph; s['oy'] = 0.5; s['top'] = True
+        if sid == 's2': s['body'] = 'Армирование, заливка и 3–4 недели выдержки.'
+        story(s, f'{OUT}/stories/{sid}.jpg')
