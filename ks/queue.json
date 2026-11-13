@@ -49,7 +49,7 @@
  },
  {
   "n": 5,
-  "when": "2026-11-14 14:00",
+  "when": "2026-11-14 15:00",
   "type": "carousel",
   "title": "c2_fundament",
   "slides": [
@@ -83,7 +83,7 @@
  },
  {
   "n": 8,
-  "when": "2026-11-15 14:00",
+  "when": "2026-11-15 15:00",
   "type": "carousel",
   "title": "c3_smeta",
   "slides": [
@@ -117,7 +117,7 @@
  },
  {
   "n": 11,
-  "when": "2026-11-16 14:00",
+  "when": "2026-11-16 15:00",
   "type": "carousel",
   "title": "c4_gazoblok",
   "slides": [
@@ -151,7 +151,7 @@
  },
  {
   "n": 14,
-  "when": "2026-11-17 14:00",
+  "when": "2026-11-17 15:00",
   "type": "carousel",
   "title": "c5_oshibki",
   "slides": [
@@ -185,7 +185,7 @@
  },
  {
   "n": 17,
-  "when": "2026-11-18 14:00",
+  "when": "2026-11-18 15:00",
   "type": "carousel",
   "title": "c6_kak_rabotaem",
   "slides": [
