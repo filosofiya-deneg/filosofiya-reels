@@ -33,7 +33,7 @@
  },
  {
   "n": 3,
-  "when": "2026-11-13 20:30",
+  "when": "2026-11-13 20:00",
   "type": "story",
   "title": "s1",
   "image_url": "https://raw.githubusercontent.com/filosofiya-deneg/filosofiya-reels/main/ks/stories/s1.jpg",
@@ -41,7 +41,7 @@
  },
  {
   "n": 4,
-  "when": "2026-11-14 10:30",
+  "when": "2026-11-14 10:00",
   "type": "story",
   "title": "s3",
   "image_url": "https://raw.githubusercontent.com/filosofiya-deneg/filosofiya-reels/main/ks/stories/s3.jpg",
@@ -49,7 +49,7 @@
  },
  {
   "n": 5,
-  "when": "2026-11-14 14:30",
+  "when": "2026-11-14 14:00",
   "type": "carousel",
   "title": "c2_fundament",
   "slides": [
@@ -66,7 +66,7 @@
  },
  {
   "n": 6,
-  "when": "2026-11-14 20:30",
+  "when": "2026-11-14 20:00",
   "type": "reel",
   "title": "r2_fundament",
   "video_url": "https://raw.githubusercontent.com/filosofiya-deneg/filosofiya-reels/main/ks/reels/r2_fundament.mp4",
@@ -75,7 +75,7 @@
  },
  {
   "n": 7,
-  "when": "2026-11-15 10:30",
+  "when": "2026-11-15 10:00",
   "type": "story",
   "title": "s2",
   "image_url": "https://raw.githubusercontent.com/filosofiya-deneg/filosofiya-reels/main/ks/stories/s2.jpg",
@@ -83,7 +83,7 @@
  },
  {
   "n": 8,
-  "when": "2026-11-15 14:30",
+  "when": "2026-11-15 14:00",
   "type": "carousel",
   "title": "c3_smeta",
   "slides": [
@@ -100,7 +100,7 @@
  },
  {
   "n": 9,
-  "when": "2026-11-15 20:30",
+  "when": "2026-11-15 20:00",
   "type": "reel",
   "title": "g1_bylo_pole_stal_dom",
   "video_url": "https://raw.githubusercontent.com/filosofiya-deneg/filosofiya-reels/main/ks/reels/g1_bylo_pole_stal_dom.mp4",
@@ -109,7 +109,7 @@
  },
  {
   "n": 10,
-  "when": "2026-11-16 10:30",
+  "when": "2026-11-16 10:00",
   "type": "story",
   "title": "s4",
   "image_url": "https://raw.githubusercontent.com/filosofiya-deneg/filosofiya-reels/main/ks/stories/s4.jpg",
@@ -117,7 +117,7 @@
  },
  {
   "n": 11,
-  "when": "2026-11-16 14:30",
+  "when": "2026-11-16 14:00",
   "type": "carousel",
   "title": "c4_gazoblok",
   "slides": [
@@ -134,7 +134,7 @@
  },
  {
   "n": 12,
-  "when": "2026-11-16 20:30",
+  "when": "2026-11-16 20:00",
   "type": "reel",
   "title": "r1_ot_polya_do_sten",
   "video_url": "https://raw.githubusercontent.com/filosofiya-deneg/filosofiya-reels/main/ks/reels/r1_ot_polya_do_sten.mp4",
@@ -143,7 +143,7 @@
  },
  {
   "n": 13,
-  "when": "2026-11-17 10:30",
+  "when": "2026-11-17 10:00",
   "type": "story",
   "title": "s5",
   "image_url": "https://raw.githubusercontent.com/filosofiya-deneg/filosofiya-reels/main/ks/stories/s5.jpg",
@@ -151,7 +151,7 @@
  },
  {
   "n": 14,
-  "when": "2026-11-17 14:30",
+  "when": "2026-11-17 14:00",
   "type": "carousel",
   "title": "c5_oshibki",
   "slides": [
@@ -168,7 +168,7 @@
  },
  {
   "n": 15,
-  "when": "2026-11-17 20:30",
+  "when": "2026-11-17 20:00",
   "type": "reel",
   "title": "g3_bez_skrytyh_platezhej",
   "video_url": "https://raw.githubusercontent.com/filosofiya-deneg/filosofiya-reels/main/ks/reels/g3_bez_skrytyh_platezhej.mp4",
@@ -177,7 +177,7 @@
  },
  {
   "n": 16,
-  "when": "2026-11-18 10:30",
+  "when": "2026-11-18 10:00",
   "type": "story",
   "title": "s6",
   "image_url": "https://raw.githubusercontent.com/filosofiya-deneg/filosofiya-reels/main/ks/stories/s6.jpg",
@@ -185,7 +185,7 @@
  },
  {
   "n": 17,
-  "when": "2026-11-18 14:30",
+  "when": "2026-11-18 14:00",
   "type": "carousel",
   "title": "c6_kak_rabotaem",
   "slides": [
@@ -202,7 +202,7 @@
  },
  {
   "n": 18,
-  "when": "2026-11-18 20:30",
+  "when": "2026-11-18 20:00",
   "type": "reel",
   "title": "r3_steny_gazoblok",
   "video_url": "https://raw.githubusercontent.com/filosofiya-deneg/filosofiya-reels/main/ks/reels/r3_steny_gazoblok.mp4",
@@ -211,7 +211,7 @@
  },
  {
   "n": 19,
-  "when": "2026-11-19 10:30",
+  "when": "2026-11-19 10:00",
   "type": "story",
   "title": "s7",
   "image_url": "https://raw.githubusercontent.com/filosofiya-deneg/filosofiya-reels/main/ks/stories/s7.jpg",
